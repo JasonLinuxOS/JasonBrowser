@@ -1,5 +1,5 @@
 /**
- * Securonis FireScorpion Browser - user.js
+ * Jason Browser - user.js
  * 
  * This file contains primary security and privacy hardening settings
  * for the browser. This is where most hardening settings should be placed.
